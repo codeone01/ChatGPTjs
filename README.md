@@ -6,7 +6,7 @@ first run
 
 Para ter sua chave da OpenAI você deve criar a conta e criar uma chave no [link](https://platform.openai.com/account/api-keys)
 
-Crie o arquivo .env com a api_key:
+Crie o arquivo .env na pasta server com a api_key:
 ```jsx
 OPENAI_API_KEY="<sua chave>"
 ```
@@ -54,7 +54,7 @@ Abra dois terminais um na pasta client e outro na pasta server
 Em client rode o código:
 
 ```shell
-npm run dev
+npm run server
 ```
 e em server o código:
 
