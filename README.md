@@ -1,9 +1,6 @@
 # Crie seu próprio ChatGPT e adicione em qualquer aplicação, usando a API da OpenAI 
 ![Open AI](https://i.ibb.co/LS4DRhb/image-257.png)
 
-
-first run 
-
 Para ter sua chave da OpenAI você deve criar a conta e criar uma chave no [link](https://platform.openai.com/account/api-keys)
 
 Crie o arquivo .env na pasta server com a api_key:
@@ -47,8 +44,6 @@ app.post('/', async (req, res) => {
 })
 ```
 
-
-# npm create vite@lastest client --template vanilla
 # Rodando 
 Abra dois terminais um na pasta client e outro na pasta server
 Em client rode o código:
