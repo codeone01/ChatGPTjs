@@ -5,7 +5,7 @@ Para ter sua chave da OpenAI você deve criar a conta e criar uma chave no [link
 
 Crie o arquivo .env na pasta server com a api_key:
 ```jsx
-OPENAI_API_KEY="<sua chave>"
+  OPENAI_API_KEY="<sua chave>"
 ```
 E no arquivo server.js dentro da pasta server: 
 
