@@ -1,6 +1,6 @@
 # Crie seu próprio ChatGPT e adicione em qualquer aplicação, usando a API da OpenAI 
 ![Open AI](https://i.ibb.co/LS4DRhb/image-257.png)
-
+<p align="center">Caso tenha gostado e ajudado considere dar uma ⭐, Obrigado! </p>
 Para ter sua chave da OpenAI você deve criar a conta e criar uma chave no [link](https://platform.openai.com/account/api-keys)
 
 Crie o arquivo .env na pasta server com a api_key:
@@ -57,8 +57,9 @@ e em server o código:
 npm run dev
 ```
 <p align="center">
-![plot](./blob/main/client/public/terminal.png)
+  <img width="750px"  src="https://github.com/codeone01/ChatGPTjs/blob/main/client/public/terminal.png"       align="center" alt="terminal" />
 </p>
+
 Abra o front no browser no link http://localhost:5173/
 
-E faça uma pergunta, lembrando que existe um limite de requisições grátis após esse limite terá que contratar um plano ou criar uma nova conta o erro para esse limite é "Código 429"
+E faça uma pergunta, lembrando que existe um limite de requisições grátis após esse limite terá que contratar um plano ou criar uma nova conta, o erro para esse limite é "Código 429"
