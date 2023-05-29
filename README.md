@@ -57,7 +57,7 @@ e em server o código:
 npm run dev
 ```
 <p align="center">
-![plot](https://github.com/codeone01/ChatGPTjs/blob/main/client/public/terminal.png)
+![plot](./blob/main/client/public/terminal.png)
 </p>
 Abra o front no browser no link http://localhost:5173/
 
