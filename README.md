@@ -56,3 +56,7 @@ e em server o código:
 ```shell
 npm run dev
 ```
+
+Abra o front no browser no link http://localhost:5173/
+
+E faça uma pergunta, lembrando que existe um limite de requisições grátis após esse limite terá que contratar um plano ou criar uma nova conta o erro para esse limite é "Código 429"
